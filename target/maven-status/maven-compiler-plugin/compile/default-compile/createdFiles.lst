@@ -1,0 +1,10 @@
+org\bukharov\noteeditor\controller\DateUtil.class
+org\bukharov\noteeditor\DBConnector.class
+org\bukharov\noteeditor\controller\NoteEditDialogController$1.class
+org\bukharov\noteeditor\controller\NoteOverviewController.class
+org\bukharov\noteeditor\controller\NoteEditDialogController.class
+org\bukharov\noteeditor\MainApp.class
+org\bukharov\noteeditor\model\Note.class
+org\bukharov\noteeditor\DBConnector$2.class
+org\bukharov\noteeditor\DBConnector$1.class
+org\bukharov\noteeditor\DBConnector$3.class

@@ -1,0 +1,178 @@
+15:18:45,068  INFO JavaFX Application Thread DBConnector:connect:29 - Open connection.
+15:18:45,443  INFO Thread-5 DBConnector:run:52 - Thread created: initNoteList.
+15:18:45,471  INFO Thread-5 DBConnector:run:62 - Thread closed: initNoteList.
+15:18:45,883  INFO JavaFX Application Thread NoteOverviewController:initialize:36 - initialize columns
+15:20:25,101  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:66 - Handle create note.
+15:20:25,140  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+15:20:29,237  INFO JavaFX Application Thread NoteEditDialogController:handleOk:74 - Handle Ok.
+15:20:29,239  INFO JavaFX Application Thread NoteEditDialogController:checkInput:91 - Check input.
+15:20:29,240  INFO JavaFX Application Thread NoteEditDialogController:checkInput:110 - Correct input.
+15:20:29,244  INFO Thread-6 DBConnector:run:71 - Thread created: Write to DB.
+15:20:29,275  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:70 - Note created.
+15:20:29,365  INFO Thread-6 DBConnector:run:96 - Successful write to database
+15:20:29,366  INFO Thread-6 DBConnector:run:100 - Thread closed: Write to DB.
+15:20:31,940  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:48 - Handle edit note.
+15:20:31,941  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:54 - No note selected. Show alert.
+15:20:36,702  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:66 - Handle create note.
+15:20:36,718  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+15:20:38,278  INFO JavaFX Application Thread NoteEditDialogController:handleOk:74 - Handle Ok.
+15:20:38,279  INFO JavaFX Application Thread NoteEditDialogController:checkInput:91 - Check input.
+15:20:38,280  INFO JavaFX Application Thread NoteEditDialogController:checkInput:110 - Correct input.
+15:20:38,283  INFO Thread-7 DBConnector:run:71 - Thread created: Write to DB.
+15:20:38,286  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:70 - Note created.
+15:20:38,389  INFO Thread-7 DBConnector:run:96 - Successful write to database
+15:20:38,390  INFO Thread-7 DBConnector:run:100 - Thread closed: Write to DB.
+15:20:40,398  INFO JavaFX Application Thread NoteOverviewController:handleDeleteNote:77 - Handle delete note.
+15:20:40,430  INFO Thread-8 DBConnector:run:109 - Thread created: Delete from DB.
+15:20:40,528  INFO Thread-8 DBConnector:run:117 - Successful delete from database
+15:20:40,528  INFO Thread-8 DBConnector:run:121 - Thread closed: Delete from DB.
+15:20:42,065  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:48 - Handle edit note.
+15:20:42,066  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:51 - Note selected
+15:20:42,091  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+15:20:46,951  INFO JavaFX Application Thread NoteEditDialogController:handleOk:74 - Handle Ok.
+15:20:46,952  INFO JavaFX Application Thread NoteEditDialogController:checkInput:91 - Check input.
+15:20:46,953  INFO JavaFX Application Thread NoteEditDialogController:checkInput:110 - Correct input.
+15:20:46,954  INFO Thread-9 DBConnector:run:71 - Thread created: Write to DB.
+15:20:47,037  INFO Thread-9 DBConnector:run:96 - Successful write to database
+15:20:47,037  INFO Thread-9 DBConnector:run:100 - Thread closed: Write to DB.
+15:20:54,336  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:48 - Handle edit note.
+15:20:54,338  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:51 - Note selected
+15:20:54,364  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+15:20:55,480  INFO JavaFX Application Thread NoteEditDialogController:handleOk:74 - Handle Ok.
+15:20:55,481  INFO JavaFX Application Thread NoteEditDialogController:checkInput:91 - Check input.
+15:20:55,482  INFO JavaFX Application Thread NoteEditDialogController:checkInput:110 - Correct input.
+15:20:55,496  INFO Thread-10 DBConnector:run:71 - Thread created: Write to DB.
+15:20:55,589  INFO Thread-10 DBConnector:run:96 - Successful write to database
+15:20:55,590  INFO Thread-10 DBConnector:run:100 - Thread closed: Write to DB.
+15:21:09,570  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:48 - Handle edit note.
+15:21:09,571  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:51 - Note selected
+15:21:09,594  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+15:21:16,252  INFO JavaFX Application Thread NoteEditDialogController:handleOk:74 - Handle Ok.
+15:21:16,253  INFO JavaFX Application Thread NoteEditDialogController:checkInput:91 - Check input.
+15:21:16,254  INFO JavaFX Application Thread NoteEditDialogController:checkInput:99 - Wrong input.
+15:21:23,388  INFO JavaFX Application Thread NoteEditDialogController:handleCancel:86 - Handle cansel. Close window.
+15:21:25,892  INFO JavaFX Application Thread NoteOverviewController:handleDeleteNote:77 - Handle delete note.
+15:21:25,894  INFO Thread-11 DBConnector:run:109 - Thread created: Delete from DB.
+15:21:25,965  INFO Thread-11 DBConnector:run:117 - Successful delete from database
+15:21:25,965  INFO Thread-11 DBConnector:run:121 - Thread closed: Delete from DB.
+15:21:28,505  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:66 - Handle create note.
+15:21:28,538  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+15:21:29,972  INFO JavaFX Application Thread NoteEditDialogController:handleOk:74 - Handle Ok.
+15:21:29,973  INFO JavaFX Application Thread NoteEditDialogController:checkInput:91 - Check input.
+15:21:29,974  INFO JavaFX Application Thread NoteEditDialogController:checkInput:110 - Correct input.
+15:21:29,977  INFO Thread-12 DBConnector:run:71 - Thread created: Write to DB.
+15:21:29,983  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:70 - Note created.
+15:21:30,064  INFO Thread-12 DBConnector:run:96 - Successful write to database
+15:21:30,065  INFO Thread-12 DBConnector:run:100 - Thread closed: Write to DB.
+15:21:32,141  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:48 - Handle edit note.
+15:21:32,141  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:51 - Note selected
+15:21:32,159  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+15:21:35,215  INFO JavaFX Application Thread NoteEditDialogController:handleOk:74 - Handle Ok.
+15:21:35,216  INFO JavaFX Application Thread NoteEditDialogController:checkInput:91 - Check input.
+15:21:35,217  INFO JavaFX Application Thread NoteEditDialogController:checkInput:99 - Wrong input.
+15:21:44,590  INFO JavaFX Application Thread NoteEditDialogController:handleOk:74 - Handle Ok.
+15:21:44,591  INFO JavaFX Application Thread NoteEditDialogController:checkInput:91 - Check input.
+15:21:44,593  INFO JavaFX Application Thread NoteEditDialogController:checkInput:99 - Wrong input.
+15:21:46,798  INFO JavaFX Application Thread NoteEditDialogController:handleCancel:86 - Handle cansel. Close window.
+15:21:48,808  INFO JavaFX Application Thread NoteOverviewController:handleDeleteNote:77 - Handle delete note.
+15:21:48,811  INFO Thread-13 DBConnector:run:109 - Thread created: Delete from DB.
+15:21:48,891  INFO Thread-13 DBConnector:run:117 - Successful delete from database
+15:21:48,891  INFO Thread-13 DBConnector:run:121 - Thread closed: Delete from DB.
+15:21:56,545  INFO JavaFX Application Thread DBConnector:closeConnection:42 - Close connection.
+15:27:53,479  INFO JavaFX Application Thread DBConnector:connect:29 - Open connection.
+15:27:53,754  INFO Thread-5 DBConnector:run:52 - Thread created: initNoteList.
+15:27:53,771  INFO Thread-5 DBConnector:run:62 - Thread closed: initNoteList.
+15:27:54,058  INFO JavaFX Application Thread NoteOverviewController:initialize:36 - initialize columns
+15:27:59,534  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:67 - Handle create note.
+15:27:59,571  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+15:28:14,045  INFO JavaFX Application Thread DBConnector:closeConnection:42 - Close connection.
+15:29:37,664  INFO JavaFX Application Thread DBConnector:connect:29 - Open connection.
+15:29:38,050  INFO Thread-5 DBConnector:run:52 - Thread created: initNoteList.
+15:29:38,073  INFO Thread-5 DBConnector:run:62 - Thread closed: initNoteList.
+15:29:38,470  INFO JavaFX Application Thread NoteOverviewController:initialize:36 - initialize columns
+15:30:28,311  INFO JavaFX Application Thread DBConnector:closeConnection:42 - Close connection.
+15:31:12,834  INFO JavaFX Application Thread DBConnector:connect:29 - Open connection.
+15:31:13,144  INFO Thread-5 DBConnector:run:52 - Thread created: initNoteList.
+15:31:13,166  INFO Thread-5 DBConnector:run:62 - Thread closed: initNoteList.
+15:31:13,503  INFO JavaFX Application Thread NoteOverviewController:initialize:36 - initialize columns
+15:31:23,018  INFO JavaFX Application Thread DBConnector:closeConnection:42 - Close connection.
+15:32:46,469  INFO JavaFX Application Thread DBConnector:connect:29 - Open connection.
+15:32:46,755  INFO Thread-5 DBConnector:run:52 - Thread created: initNoteList.
+15:32:46,784  INFO Thread-5 DBConnector:run:62 - Thread closed: initNoteList.
+15:32:47,090  INFO JavaFX Application Thread NoteOverviewController:initialize:36 - initialize columns
+15:32:53,515  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:67 - Handle create note.
+15:32:53,566  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+15:32:58,346  INFO JavaFX Application Thread NoteEditDialogController:handleOk:75 - Handle Ok.
+15:32:58,346  INFO JavaFX Application Thread NoteEditDialogController:checkInput:92 - Check input.
+15:32:58,347  INFO JavaFX Application Thread NoteEditDialogController:checkInput:111 - Correct input.
+15:32:58,353  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:71 - Note created.
+15:32:58,356  INFO Thread-6 DBConnector:run:71 - Thread created: Write to DB.
+15:32:58,449  INFO Thread-6 DBConnector:run:96 - Successful write to database
+15:32:58,450  INFO Thread-6 DBConnector:run:100 - Thread closed: Write to DB.
+15:33:01,162  INFO JavaFX Application Thread NoteOverviewController:handleDeleteNote:78 - Handle delete note.
+15:33:01,163  INFO Thread-7 DBConnector:run:109 - Thread created: Delete from DB.
+15:33:01,260  INFO Thread-7 DBConnector:run:117 - Successful delete from database
+15:33:01,262  INFO Thread-7 DBConnector:run:121 - Thread closed: Delete from DB.
+15:33:03,158  INFO JavaFX Application Thread DBConnector:closeConnection:42 - Close connection.
+15:33:36,575  INFO JavaFX Application Thread DBConnector:connect:29 - Open connection.
+15:33:36,860  INFO Thread-5 DBConnector:run:52 - Thread created: initNoteList.
+15:33:36,876  INFO Thread-5 DBConnector:run:62 - Thread closed: initNoteList.
+15:33:37,169  INFO JavaFX Application Thread NoteOverviewController:initialize:36 - initialize columns
+15:33:40,257  INFO JavaFX Application Thread DBConnector:closeConnection:42 - Close connection.
+16:08:37,473  INFO JavaFX Application Thread DBConnector:connect:29 - Open connection.
+16:08:38,019  INFO Thread-5 DBConnector:run:52 - Thread created: initNoteList.
+16:08:38,050  INFO Thread-5 DBConnector:run:62 - Thread closed: initNoteList.
+16:08:38,415  INFO JavaFX Application Thread NoteOverviewController:initialize:36 - initialize columns
+16:08:45,404  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:49 - Handle edit note.
+16:08:45,405  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:52 - Note selected
+16:08:45,460  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+16:08:48,472  INFO JavaFX Application Thread NoteEditDialogController:handleOk:75 - Handle Ok.
+16:08:48,472  INFO JavaFX Application Thread NoteEditDialogController:checkInput:92 - Check input.
+16:08:48,473  INFO JavaFX Application Thread NoteEditDialogController:checkInput:111 - Correct input.
+16:08:48,475  INFO Thread-6 DBConnector:run:71 - Thread created: Write to DB.
+16:08:48,554  INFO Thread-6 DBConnector:run:96 - Successful write to database
+16:08:48,554  INFO Thread-6 DBConnector:run:100 - Thread closed: Write to DB.
+16:08:57,731  INFO JavaFX Application Thread DBConnector:closeConnection:42 - Close connection.
+16:19:01,534  INFO JavaFX Application Thread DBConnector:connect:29 - Open connection.
+16:19:02,018  INFO Thread-5 DBConnector:run:52 - Thread created: initNoteList.
+16:19:02,132  INFO Thread-5 DBConnector:run:62 - Thread closed: initNoteList.
+16:19:03,994  INFO JavaFX Application Thread NoteOverviewController:initialize:36 - initialize columns
+16:19:09,811  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:67 - Handle create note.
+16:19:09,868  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+16:19:14,626  INFO JavaFX Application Thread NoteEditDialogController:handleOk:75 - Handle Ok.
+16:19:14,627  INFO JavaFX Application Thread NoteEditDialogController:checkInput:92 - Check input.
+16:19:14,627  INFO JavaFX Application Thread NoteEditDialogController:checkInput:111 - Correct input.
+16:19:14,629  INFO Thread-6 DBConnector:run:71 - Thread created: Write to DB.
+16:19:14,637  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:71 - Note created.
+16:19:14,810  INFO Thread-6 DBConnector:run:96 - Successful write to database
+16:19:14,810  INFO Thread-6 DBConnector:run:100 - Thread closed: Write to DB.
+16:19:16,771  INFO JavaFX Application Thread NoteOverviewController:handleDeleteNote:78 - Handle delete note.
+16:19:16,772  INFO Thread-7 DBConnector:run:109 - Thread created: Delete from DB.
+16:19:17,058  INFO Thread-7 DBConnector:run:117 - Successful delete from database
+16:19:17,063  INFO Thread-7 DBConnector:run:121 - Thread closed: Delete from DB.
+16:19:18,256  INFO JavaFX Application Thread DBConnector:closeConnection:42 - Close connection.
+16:27:14,556  INFO JavaFX Application Thread DBConnector:connect:29 - Open connection.
+16:27:14,911  INFO Thread-5 DBConnector:run:52 - Thread created: initNoteList.
+16:27:14,944  INFO Thread-5 DBConnector:run:62 - Thread closed: initNoteList.
+16:27:15,292  INFO JavaFX Application Thread NoteOverviewController:initialize:36 - initialize columns
+16:27:17,914  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:67 - Handle create note.
+16:27:17,940  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+16:27:20,142  INFO JavaFX Application Thread NoteEditDialogController:handleOk:75 - Handle Ok.
+16:27:20,142  INFO JavaFX Application Thread NoteEditDialogController:checkInput:92 - Check input.
+16:27:20,143  INFO JavaFX Application Thread NoteEditDialogController:checkInput:111 - Correct input.
+16:27:20,144  INFO Thread-6 DBConnector:run:71 - Thread created: Write to DB.
+16:27:20,152  INFO JavaFX Application Thread NoteOverviewController:handleCreateNote:71 - Note created.
+16:27:20,438  INFO Thread-6 DBConnector:run:96 - Successful write to database
+16:27:20,438  INFO Thread-6 DBConnector:run:100 - Thread closed: Write to DB.
+16:27:22,383  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:49 - Handle edit note.
+16:27:22,383  INFO JavaFX Application Thread NoteOverviewController:handleEditNote:52 - Note selected
+16:27:22,400  INFO JavaFX Application Thread NoteEditDialogController:initialize:42 - NoteEditDialogController initialized.
+16:27:25,413  INFO JavaFX Application Thread NoteEditDialogController:handleOk:75 - Handle Ok.
+16:27:25,414  INFO JavaFX Application Thread NoteEditDialogController:checkInput:92 - Check input.
+16:27:25,414  INFO JavaFX Application Thread NoteEditDialogController:checkInput:100 - Wrong input.
+16:27:26,895  INFO JavaFX Application Thread NoteEditDialogController:handleCancel:87 - Handle cansel. Close window.
+16:27:29,807  INFO JavaFX Application Thread NoteOverviewController:handleDeleteNote:78 - Handle delete note.
+16:27:29,809  INFO Thread-7 DBConnector:run:109 - Thread created: Delete from DB.
+16:27:29,876  INFO Thread-7 DBConnector:run:117 - Successful delete from database
+16:27:29,876  INFO Thread-7 DBConnector:run:121 - Thread closed: Delete from DB.
+16:27:31,997  INFO JavaFX Application Thread DBConnector:closeConnection:42 - Close connection.

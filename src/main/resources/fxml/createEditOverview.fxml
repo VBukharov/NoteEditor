@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="150.0" prefWidth="300.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.bukharov.noteeditor.controller.NoteEditDialogController">
+   <children>
+      <Label layoutX="14.0" layoutY="111.0" text="Current date:" />
+      <Label fx:id="dateTime" layoutX="94.0" layoutY="111.0" text="Label" />
+      <TextArea fx:id="noteText" layoutX="14.0" layoutY="14.0" prefHeight="70.0" prefWidth="250.0" promptText="Enter your note" AnchorPane.leftAnchor="25.0" AnchorPane.rightAnchor="25.0" AnchorPane.topAnchor="20.0" />
+      <HBox layoutX="191.0" layoutY="107.0" spacing="10.0">
+         <children>
+            <Button layoutX="175.0" layoutY="65.0" mnemonicParsing="false" onAction="#handleOk" text="OK" />
+            <Button layoutX="234.0" layoutY="65.0" mnemonicParsing="false" onAction="#handleCancel" text="Cancel" />
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>
